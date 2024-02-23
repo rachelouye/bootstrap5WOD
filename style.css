@@ -1,0 +1,34 @@
+body {
+  background-image: url("https://courses.ics.hawaii.edu/ics314f23/morea/ui-frameworks/wod-buzzs-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  --bs-light-rgb: 48, 73, 95;
+}
+
+p {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+ul, li {
+  color: white;
+}
+
+#buzzLogo {
+  width: 250px;
+}
+
+.nav-link, .nav-link:any-link {
+  font-size: medium;
+  color: white;
+}
+
+.dropdown-toggle {
+  color: white;
+}
+
+footer {
+  background-color: #FFFFFF;
+}
